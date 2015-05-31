@@ -1,0 +1,11 @@
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\Northwind.Business.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\Northwind.Business.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\Northwind.Data.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\Northwind.Domain.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\Northwind.Data.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\Northwind.Domain.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\obj\Debug\Northwind.Business.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\obj\Debug\Northwind.Business.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Business\obj\Debug\Northwind.Business.pdb

@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\Northwind.Domain.dll.config
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\Northwind.Domain.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\Northwind.Domain.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\obj\Debug\Northwind.Domain.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\obj\Debug\Northwind.Domain.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Domain\obj\Debug\Northwind.Domain.csprojResolveAssemblyReference.cache

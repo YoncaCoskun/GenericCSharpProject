@@ -1,0 +1,12 @@
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\Northwind.Data.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\Northwind.Data.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\EntityFramework.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\Northwind.Domain.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\Northwind.Domain.pdb
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\EntityFramework.xml
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\obj\Debug\Northwind.Data.dll
+\\psf\home\documents\visual studio 2013\Projects\NorthwindGenericHomeWork\Northwind.Data\obj\Debug\Northwind.Data.pdb
